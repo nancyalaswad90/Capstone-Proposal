@@ -59,4 +59,4 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 
 
 
-- [The project 
+- [The project Review Link](https://review.udacity.com/#!/reviews/2533469)
