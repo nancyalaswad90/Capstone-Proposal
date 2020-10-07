@@ -3,6 +3,14 @@
 
 
   > ![cap](https://user-images.githubusercontent.com/36210723/94931601-9f76be00-04d0-11eb-8af6-eeba0533cb57.png)
+  
+  .
+
+
+## [The project Review Link](https://review.udacity.com/#!/reviews/2533469)
+
+
+.
 
 
 [//]: # (Image References)
@@ -59,4 +67,4 @@ Along with exploring state-of-the-art CNN models for classification and localiza
 
 
 
-- [The project Review Link](https://review.udacity.com/#!/reviews/2533469)
+
