@@ -1,4 +1,3 @@
-  .
 
 
 ## [The project Review Link](https://review.udacity.com/#!/reviews/2533469)
@@ -20,6 +19,22 @@
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
 
+.
+
+
+
+### This project divided into Two part : 
+
+
+
+   - **Capstone-Proposal** [Here is its link ](https://github.com/nancyalaswad90/Capstone-Proposal)
+	
+
+
+-  **Capstone-Project** [Here is its link ](https://github.com/nancyalaswad90/Dog-Breed-Classifier/blob/master/README.md)
+	
+
+.
 
 ## Project Overview
 
