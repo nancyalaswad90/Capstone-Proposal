@@ -23,7 +23,7 @@
 
 
 
-### This project divided into Two part : 
+### This project divided into Two part : Dog Breed Classifier
 
 
 
